@@ -1,10 +1,10 @@
 # School District Analysis
 
 ## Overview of the Analysis
-The purpose of the analysis of the high schools in a school district was to get the average grades per school, grade and student. It was used to obtain the spending per student in each high school which gave the ability to see if spending had any correlation with what the average was for students who passed math and reading. Then once it was realized students in a specific grade at a certain high school were cheating, the analysis was done to see what changes this made to the results. 
+The purpose of the analysis was to show the number of high school students who passed math and reading. Another goal of the analysis was to show the averages of the students who passed math and reading by grade, school, and school type in in the school district.  Finally, the analysis was used to obtain the spending per student in each high school which gave the ability to see if spending had any correlation with what the average grades were for students who passed math and reading. The analysis needed to be updated because information was given that the 9th grade students at Thomas High School were cheating. The school district wanted to see if the removal of these ninth graders' grades changed the analysis of the data.
 
 ### Results of the Analysis of the Grade Metrics
-The results of the analysis were the overall picture did not change. Due to the small change in percentages for Thomas High School, when the averages were rounded they remained the same. The only way to see the affect was if the averages were not rounded. Part of why the picture did not change is the number of students removed was small compared to the total number of high schoolers in the district. The total number of students removed from the analysis is 461 students. The total number of students in the initial analysis was 39,170. This can be seen in the photos below.
+The results of the analysis were the overall picture did not change. Due to the small change in percentages for Thomas High School, when the averages were rounded they remained the same. The only way to see the affect was if the averages were not rounded. Part of why the picture did not change is the number of students removed was small compared to the total number of high schoolers in the district. The total number of students removed from the analysis was 461 students. The total number of students in the initial analysis was 39,170. This can be seen in the photos below.
 
 - Original School District Analysis Averages
 
