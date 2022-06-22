@@ -43,3 +43,7 @@ What this means is when the averages were rounded they did not change making it 
 ![challenge_budget_numbers](https://user-images.githubusercontent.com/105513491/175101715-da042715-061a-464c-af9b-d2d0b834aec4.png)
 
 The two photos above show that the removal of the 9th grade Thomas High School student grades did not affect the school budgets or spending per student budget.
+
+##### Conclusion
+
+
