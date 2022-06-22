@@ -46,4 +46,4 @@ The two photos above show that the removal of the 9th grade Thomas High School s
 
 ##### Conclusion
 
-
+As discussed above four changes in the school district analysis were all small percentage changes in the math and reading scores as well as the average passing scores for math and reading.  The small number of students removed from the analysis did not lead to large, noticeable changes in the data. 
